@@ -17,7 +17,7 @@ This database supports:
 The database includes the following core tables:
 - `book`
 - `author`
-- - `book_author`
+- `book_author`
 - `book_language`
 - `publisher`
 - `book_author`
